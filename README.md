@@ -14,8 +14,6 @@
 
 - ❓ Ask me about anything related to SQL and data related topics.  
   
-
-- ⚡ Fun fact: I can sing while coding😜  
   
 
 <br/>  
